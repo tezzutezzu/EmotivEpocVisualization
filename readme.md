@@ -2,7 +2,7 @@
 
 This is an experiment in visualizing and storing data from an Emotiv Epoc neuroheadset using Processing and OSC.
 
-The project was developed over the course of two weeks during the [X|Y research lab](http://www.xylab.org/) 2014 in [Castrignano De' Greci](http://commons.wikimedia.org/wiki/File:Castello_1_di_Castrignano_de'_Greci.jpg)
+The project was developed over the course of two weeks during the 2014 [X|Y research lab](http://www.xylab.org/) held in [Castrignano De' Greci](http://upload.wikimedia.org/wikipedia/commons/a/a5/Castello_1_di_Castrignano_de'_Greci.jpg) 
 
 ## Usage
 
@@ -16,15 +16,12 @@ Each blob on the right represents a sensor with its values recorded over a prede
 
 
 ![You can click a sensor to keep it opened a nd hover it to see its name and realtime value. ](https://raw.github.com/tezzutezzu/EmoticVisualization/master/screenshot2.png)
-You can click a sensor to keep it opened a nd hover it to see its name and realtime value.
+You can click a sensor to keep it opened and hover it to see its name and realtime value.
 
 
 
 ![Blob detail ](https://raw.github.com/tezzutezzu/EmoticVisualization/master/detail.png)
-Blob detail
-
-
-
+The circle in the middle of the blob represents the sensor quality, the blue lines are the value recorded over a predefined interval of time and the white circle represents the current value sensed by the sensor.
 
 
 
