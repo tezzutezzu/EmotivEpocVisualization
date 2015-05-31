@@ -1,0 +1,127 @@
+[{
+    "name": "af4",
+    "paths": [{
+        "type": "circle",
+        "x": 454,
+        "y": 23,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "af3",
+    "paths": [{
+        "type": "circle",
+        "x": 130,
+        "y": 23,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "f7",
+    "paths": [{
+        "type": "circle",
+        "x": 52,
+        "y": 133,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "f8",
+    "paths": [{
+        "type": "circle",
+        "x": 532,
+        "y": 133,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "f4",
+    "paths": [{
+        "type": "circle",
+        "x": 402,
+        "y": 144,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "f3",
+    "paths": [{
+        "type": "circle",
+        "x": 182,
+        "y": 144,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "fc5",
+    "paths": [{
+        "type": "circle",
+        "x": 100,
+        "y": 234,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "fc6",
+    "paths": [{
+        "type": "circle",
+        "x": 485,
+        "y": 234,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "p7",
+    "paths": [{
+        "type": "circle",
+        "x": 104,
+        "y": 433,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "p8",
+    "paths": [{
+        "type": "circle",
+        "x": 478,
+        "y": 433,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "o1",
+    "paths": [{
+        "type": "circle",
+        "x": 177,
+        "y": 538,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "o2",
+    "paths": [{
+        "type": "circle",
+        "x": 407,
+        "y": 538,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "t8",
+    "paths": [{
+        "type": "circle",
+        "x": 559,
+        "y": 345,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}, {
+    "name": "t7",
+    "paths": [{
+        "type": "circle",
+        "x": 24,
+        "y": 344,
+        "r": "23.511",
+        "stroke-width": "0"
+    }]
+}]
